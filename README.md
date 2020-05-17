@@ -7,5 +7,3 @@ This repository contains the directories and files for the following zero_day pr
 * 0x02. vi 
 * 0x03. Git 
 
-
-# holbertonschool-zero_day #
